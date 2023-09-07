@@ -1,5 +1,3 @@
-org: eniompw
-app: serverless-flask-container
 service: serverless-flask-container
 
 provider:
